@@ -1,5 +1,7 @@
 Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
+Live View- https://navartna.netlify.app/
+
 Hi there! I'm Navartna, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
 Portfolio Features:
